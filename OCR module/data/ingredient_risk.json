@@ -1,0 +1,134 @@
+{
+  "sugar": {
+    "risk": "high",
+    "reason": "High glycemic load, excess calories"
+  },
+  "glucose syrup": {
+    "risk": "high",
+    "reason": "Refined sugar, spikes blood glucose"
+  },
+  "dextrose": {
+    "risk": "high",
+    "reason": "Simple sugar, rapid absorption"
+  },
+  "invert sugar syrup": {
+    "risk": "high",
+    "reason": "Combination of glucose and fructose"
+  },
+
+  "palm oil": {
+    "risk": "medium",
+    "reason": "High saturated fat content"
+  },
+  "palm kernel oil": {
+    "risk": "medium",
+    "reason": "Processed oil, saturated fats"
+  },
+  "vegetable oil": {
+    "risk": "medium",
+    "reason": "Refined oil, calorie dense"
+  },
+  "msg": {
+    "risk": "medium",
+    "reason": "Flavor enhancer, may cause sensitivity"
+  },
+  "colour": {
+    "risk": "medium",
+    "reason": "Artificial or processed coloring agent"
+  },
+  "flavourings": {
+    "risk": "medium",
+    "reason": "Artificial or nature-identical additives"
+  },
+
+  "citric acid": {
+    "risk": "low",
+    "reason": "Common preservative, generally safe"
+  },
+  "lactic acid": {
+    "risk": "low",
+    "reason": "Naturally occurring acid"
+  },
+  "pectin": {
+    "risk": "low",
+    "reason": "Natural plant-based fiber"
+  },
+  "fruit pulp": {
+    "risk": "low",
+    "reason": "Natural ingredient with nutrients"
+  },
+  "fruit concentrate": {
+    "risk": "low",
+    "reason": "Concentrated fruit extract"
+  },
+  "paprika extract": {
+    "risk": "low",
+    "reason": "Natural coloring agent"
+  },
+  "blackcurrant": {
+    "risk": "low",
+    "reason": "Natural fruit ingredient"
+  },
+  "carrot": {
+    "risk": "low",
+    "reason": "Natural vegetable ingredient"
+  },
+  "hibiscus": {
+    "risk": "low",
+    "reason": "Plant-based natural ingredient"
+  },
+  "radish": {
+    "risk": "low",
+    "reason": "Natural vegetable ingredient"
+  },
+  "tomato": {
+    "risk": "low",
+    "reason": "Natural vegetable ingredient"
+  },
+  "groundnut": {
+    "risk": "low",
+    "benefit": "protein_fat"
+  },
+  "peanuts": {
+    "risk": "low",
+    "benefit": "protein_fat"
+  },
+  "bengal gram flour": {
+    "risk": "low",
+    "benefit": "protein"
+  },
+  "besan": {
+    "risk": "low",
+    "benefit": "protein"
+  },
+  "turmeric": {
+    "risk": "low",
+    "benefit": "antioxidant"
+  },
+  "ginger": {
+    "risk": "low",
+    "benefit": "digestive"
+  },
+  "black pepper": {
+    "risk": "low",
+    "benefit": "antioxidant"
+  },
+  "cumin": {
+    "risk": "low",
+    "benefit": "digestive"
+  },
+    "flavourings": {
+    "risk": "medium"
+    },
+    "anticaking agent": {
+    "risk": "medium"
+    },
+    "colour": {
+    "risk": "medium"
+    },
+    "potato": {
+    "risk": "low"
+    }
+
+}
+
